@@ -1,0 +1,2 @@
+File Character_object_3D.blend = Hanya Character Object dari masing masing kelompok, tanpa background, untuk view, object lain di hide
+File Final_animation.blend = Gabungan object dan Animation
